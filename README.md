@@ -6,7 +6,9 @@
 OnionScan is a free and open source tool for investigating the Dark Web. For all
 the amazing technological innovations in the anonymity and privacy space, there 
 is always a constant threat that has no effective technological patch - human
-error. <img src="templates/images/logo.png" title="OnionScan"/>
+error. 
+
+<img src="templates/images/logo.png" title="OnionScan"/>
 
 Whether it is operational security leaks or software misconfiguration - most
 often times the attacks on anonymity don't come from breaking the underlying
